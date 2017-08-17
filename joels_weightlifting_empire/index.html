@@ -1,0 +1,238 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+  
+
+    <title>Joels WeightLifting Empire</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="bootstrap-3.3/docs/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+    <link href="custom.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="bootstrap-3.3/docs/assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      
+ 
+    <![endif]-->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <link href="css/carousel.css" rel="stylesheet">
+  </head>
+
+  <body>
+  	<!--  NAVBAR -->
+    <div class="navbar-wrapper">
+    <div class="container">
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+			
+			
+			<div style="white-space: nowrap;" class="navbar-brand d-inline-block" style="display:inline-block;">
+              <a href="index.html" class="d-inline-block align-top"><img src="images/Logo1.png" width="10%" height="100%" style="display:inline-block;"></a>
+	      	  <div class="hidden-xs d-inline-block" style="display:inline-block;">Joel's Software Empire</div>
+	        </div>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li><a href="pricing.html">Pricing</a>
+            <li><a href="about.html">About Us</a></li>
+            <li><a class="btn btn-lg btn-success login-filter" href="signin.html" role="button" style="margin-bottom:4px; margin-top:4px; padding-bottom:13%; padding-top:13%; color:black;">Login</a></li>
+
+            <li><a href="#" class="dropdown-toggle btn btn-lg btn-primary account-filter" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="margin-bottom:4px; margin-top:4px; padding-bottom:8%; padding-top:8%; color:black;">
+            	My Profile
+            	<span class="caret"></span>
+            </a>
+           <ul class="dropdown-menu">
+            <li><a href="scheduling.html">Schedule</a></li>
+		    <li><a href="records.html">Gym Records</a>
+            <li><a href="pay.html">Acount Status</a>  
+            <li><a href="#" id="logoutLink">Logout</a>  </li>     
+            </ul>
+            </li>
+ 			
+ 			<li><a class="btn btn-lg btn-warning admin-filter" href="account.html" role="button" style="margin-bottom:4px; margin-top:4px; padding-bottom:13%; padding-top:13%; color:black;">Admin</a></li>
+ 			
+         </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+    </div>
+    </div> <!--  Navbar End -->
+
+   <!-- Carousel
+    ================================================== -->
+    <div id="myCarousel" class="carousel slide" data-ride="carousel">
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+      </ol>
+      <div class="carousel-inner" role="listbox">
+        <div class="item active">
+          <img class="first-slide" src="images/photo1.jpg" alt="First slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Extreme Weightlifting</h1>
+              <p>Work with a dedicated trainer and platform to further your serious weightlifting.</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="second-slide" src="images/photo2.jpg" alt="Second slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Basketball For Experts</h1>
+              <p>Take your basketball skills to the next level</p>
+              <p><a class="btn btn-lg btn-primary" href="about.html" role="button">Learn more</a></p>
+            </div>
+          </div>
+        </div>
+        <div class="item">
+          <img class="third-slide" src="images/photo3.jpg" alt="Third slide">
+          <div class="container">
+            <div class="carousel-caption">
+              <h1>Trainers That Care</h1>
+              <p>Unbeatable cancellation policy</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">View Our Terms</a></p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+    </div><!-- /.carousel -->
+
+
+    <!-- Marketing messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container marketing">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/face1.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>The Guy's Name</h2>
+          <p>WWeightlifting and platforms and stuff. I teach weightlifting. Weeeeightlifting. Get some biceps so you can beat up people.</p>
+          <p><a class="btn btn-default" href="about.html" role="button">Learn More &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/face2.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>The Girl's Name</h2>
+          <p>Basketball basketball basssskeetttsssballllsssssss I teach basketball.</p>
+          <p><a class="btn btn-default" href="about.html" role="button">Learn More &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <img class="img-circle" src="images/face3.jpg" alt="Generic placeholder image" width="140" height="140">
+          <h2>Daisy McFluer</h2>
+          <p>My name is Daisy McFluer. I have been going to this company for 45 years and they have incredible service. I highly reccommend them!</p>
+          <p><a class="btn btn-default" href="#" role="button">See more testimonies &raquo;</a></p>
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
+
+
+
+
+
+
+
+      </div>
+
+
+<!--  Eventually impliment this - terms and conditions page -->
+<!-- Modal -->
+<div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+
+
+	<h1>Terms and Conditions ("Terms")</h1>
+<p>Last updated: December 08, 2016</p>
+<p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the www.buttedigital.com/joel website (the "Service") operated by Joes Weightlifting Empire ("us", "we", or "our").</p>
+<p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
+<p>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. This Terms and Conditions was (<a href="https://termsfeed.com/">created with TermsFeed</a>).</p>
+<p><strong>Accounts</strong></p>
+<p>When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.</p>
+<p>You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.</p>
+<p>You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.</p>
+<p><strong>Links To Other Web Sites</strong></p>
+<p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Joes Weightlifting Empire.</p>
+<p>Joes Weightlifting Empire has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Joes Weightlifting Empire shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+<p>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
+<p><strong>Termination</strong></p>
+<p>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+<p>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<p>We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+<p>Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.</p>
+<p>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<p><strong>Governing Law</strong></p>
+<p>These Terms shall be governed and construed in accordance with the laws of Montana, United States, without regard to its conflict of law provisions.</p>
+<p>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.</p>
+<p><strong>Changes</strong></p>
+<p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p>
+<p>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions about these Terms, please contact us.</p>
+	
+      
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="bootstrap-3.3/docs/assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="bootstrap-3.3/docs/dist/js/bootstrap.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="bootstrap-3.3/docs/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/index.js"></script>
+  </body>
+</html>

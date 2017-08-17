@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>Create Account</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap-3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+     <link href="bootstrap-3.3/docs/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="css/signin.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="bootstrap-3.3/docs/assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body>
+  
+<!-- Modal -->
+<div id="myModal2" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+
+    <!-- Modal content-->
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h4 class="modal-title">Modal Header</h4>
+      </div>
+      <div class="modal-body">
+
+
+	<h1>Terms and Conditions ("Terms")</h1>
+<p>Last updated: December 08, 2016</p>
+<p>Please read these Terms and Conditions ("Terms", "Terms and Conditions") carefully before using the www.buttedigital.com/joel website (the "Service") operated by Joes Weightlifting Empire ("us", "we", or "our").</p>
+<p>Your access to and use of the Service is conditioned on your acceptance of and compliance with these Terms. These Terms apply to all visitors, users and others who access or use the Service.</p>
+<p>By accessing or using the Service you agree to be bound by these Terms. If you disagree with any part of the terms then you may not access the Service. This Terms and Conditions was (<a href="https://termsfeed.com/">created with TermsFeed</a>).</p>
+<p><strong>Accounts</strong></p>
+<p>When you create an account with us, you must provide us information that is accurate, complete, and current at all times. Failure to do so constitutes a breach of the Terms, which may result in immediate termination of your account on our Service.</p>
+<p>You are responsible for safeguarding the password that you use to access the Service and for any activities or actions under your password, whether your password is with our Service or a third-party service.</p>
+<p>You agree not to disclose your password to any third party. You must notify us immediately upon becoming aware of any breach of security or unauthorized use of your account.</p>
+<p><strong>Links To Other Web Sites</strong></p>
+<p>Our Service may contain links to third-party web sites or services that are not owned or controlled by Joes Weightlifting Empire.</p>
+<p>Joes Weightlifting Empire has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that Joes Weightlifting Empire shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such web sites or services.</p>
+<p>We strongly advise you to read the terms and conditions and privacy policies of any third-party web sites or services that you visit.</p>
+<p><strong>Termination</strong></p>
+<p>We may terminate or suspend access to our Service immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+<p>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<p>We may terminate or suspend your account immediately, without prior notice or liability, for any reason whatsoever, including without limitation if you breach the Terms.</p>
+<p>Upon termination, your right to use the Service will immediately cease. If you wish to terminate your account, you may simply discontinue using the Service.</p>
+<p>All provisions of the Terms which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+<p><strong>Governing Law</strong></p>
+<p>These Terms shall be governed and construed in accordance with the laws of Montana, United States, without regard to its conflict of law provisions.</p>
+<p>Our failure to enforce any right or provision of these Terms will not be considered a waiver of those rights. If any provision of these Terms is held to be invalid or unenforceable by a court, the remaining provisions of these Terms will remain in effect. These Terms constitute the entire agreement between us regarding our Service, and supersede and replace any prior agreements we might have between us regarding the Service.</p>
+<p><strong>Changes</strong></p>
+<p>We reserve the right, at our sole discretion, to modify or replace these Terms at any time. If a revision is material we will try to provide at least 30 days notice prior to any new terms taking effect. What constitutes a material change will be determined at our sole discretion.</p>
+<p>By continuing to access or use our Service after those revisions become effective, you agree to be bound by the revised terms. If you do not agree to the new terms, please stop using the Service.</p>
+<p><strong>Contact Us</strong></p>
+<p>If you have any questions about these Terms, please contact us.</p>
+	
+      
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+    <div class="container">
+
+      <form class="form-signin" id="form-create" onsubmit="return check_createaccount()" action="php/createaccount.php" method="post">
+        <h2 class="form-create-heading">Create an Account</h2>
+        <label for="email" class="sr-only">Email address</label>
+        <input type="email" id="Cemail" name="email" class="form-control" placeholder="Email address" required autofocus>
+        <label for="pass" class="sr-only">Password</label>
+        <input type="password" id="pass" name="pass" class="form-control" placeholder="Password" required>
+        <label for="fName" class="sr-only">First Name</label>
+        <input type="text" id="fName" name="fName" class="form-control" placeholder="First Name" required>
+        <label for="lName" class="sr-only">Last Name</label>
+        <input type="text" id="lName" name="lName" class="form-control" placeholder="Last Name" required>
+        <label for="bday" class="sr-only">BDay</label>
+        <div class='input-group date' id='datetimepicker1'>
+        	<input class="datepicker" data-date-format="mm/dd/yyyy" id="bday" name="bday" data-provide="datepicker" placeholder="Birthday (Date)" required>
+            <div class="input-group-addon">
+        		<span class="glyphicon glyphicon-th"></span>
+   			</div>
+		</div>
+        <label for="phone" class="sr-only">Phone</label>
+        <input type="text" id="phone" name="phone" class="form-control" placeholder="Phone #" required>
+        <label for="address" class="sr-only">Address</label>
+        <input type="text" id="address" name="address" class="form-control" placeholder="Address" required>
+        <div class="checkbox">
+          <label>
+            <input type="checkbox" value="terms"> <a href="#" data-toggle="modal" data-target="#myModal2">I have read and Accept the Terms and Conditions</a>
+          </label>
+        </div>
+        <button class="btn btn-lg btn-primary btn-block" type="submit">Let's Go!</button>
+      </form>
+    </div> <!-- /container -->
+
+
+
+
+
+
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.4.0/moment.min.js"></script>
+    <script src="js/signinstuff.js"></script>
+    <script src="bootstrap-3.3/docs/dist/js/bootstrap.min.js"></script>
+    <script src="bootstrap-3.3/docs/assets/js/ie10-viewport-bug-workaround.js"></script>
+            <script type="text/javascript">
+            $(function () {
+                $('#datetimepicker1').datetimepicker();
+            });
+    </script>
+    
+    
+  </body>
+</html>

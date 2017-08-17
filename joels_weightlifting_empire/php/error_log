@@ -1,0 +1,186 @@
+[01-Nov-2016 00:45:27 America/Chicago] PHP Warning:  require_once(/home/buttedig/public_html/joel/php/vendor/autoload.php): failed to open stream: No such file or directory in /home/buttedig/public_html/joel/php/config.php on line 15
+[01-Nov-2016 00:45:27 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/buttedig/public_html/joel/php/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buttedig/public_html/joel/php/config.php on line 15
+[01-Nov-2016 00:46:05 America/Chicago] PHP Warning:  require_once(/home/buttedig/public_html/joel/php/vendor/autoload.php): failed to open stream: No such file or directory in /home/buttedig/public_html/joel/php/config.php on line 15
+[01-Nov-2016 00:46:05 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home/buttedig/public_html/joel/php/vendor/autoload.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/buttedig/public_html/joel/php/config.php on line 15
+[01-Nov-2016 11:31:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:10 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:13 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:31:45 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:33:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:33:04 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:34:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:34:07 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:34:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:34:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:34:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:34:46 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 36
+[01-Nov-2016 11:36:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[01-Nov-2016 11:36:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:40:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:40:58 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:41:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:41:03 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:43:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:43:59 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:45:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:45:18 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:45:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:45:28 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:47:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 10:47:42 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 11:01:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 11:01:53 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 11:02:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 11:02:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 34
+[03-Nov-2016 11:21:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 27
+[03-Nov-2016 11:21:06 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 27
+[03-Nov-2016 11:28:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 27
+[03-Nov-2016 11:28:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 27
+[03-Nov-2016 11:47:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 27
+[03-Nov-2016 11:47:17 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 27
+[10-Nov-2016 11:00:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:00:31 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:00:31 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:00:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:00:48 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:00:48 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:01:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:19 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:19 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:01:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:23 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:23 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:01:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:25 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:01:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:27 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:01:27 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:03:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:15 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:16 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:03:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:22 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:23 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:03:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:25 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:25 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:03:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:27 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:03:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:50 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:03:50 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:04:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:04:01 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:04:02 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:04:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:04:30 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/buttedig/public_html/joel/php/config.php:40) in /home/buttedig/public_html/joel/php/signin.php on line 7
+[10-Nov-2016 11:04:30 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[10-Nov-2016 11:05:10 America/Chicago] PHP Fatal error:  Call to undefined function session_abort() in /home/buttedig/public_html/joel/php/signin.php on line 32
+[14-Nov-2016 22:26:07 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[14-Nov-2016 22:26:12 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[14-Nov-2016 22:26:12 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[14-Nov-2016 22:26:28 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[14-Nov-2016 22:28:06 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[15-Nov-2016 10:57:03 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[15-Nov-2016 10:58:49 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[15-Nov-2016 11:01:13 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[15-Nov-2016 11:02:21 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/buttedig/public_html/joel/php/events.php on line 15
+[15-Nov-2016 11:05:47 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/buttedig/public_html/joel/php/events.php:4
+Stack trace:
+#0 /home/buttedig/public_html/joel/php/events.php(4): PDO->__construct('students.cs.umt...', 'jh223415', 'he0ohNgu4Xoojee...')
+#1 {main}
+  thrown in /home/buttedig/public_html/joel/php/events.php on line 4
+[15-Nov-2016 11:07:44 America/Chicago] PHP Fatal error:  Call to undefined function connect() in /home/buttedig/public_html/joel/php/events.php on line 5
+[15-Nov-2016 11:08:25 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/buttedig/public_html/joel/php/events.php on line 8
+[15-Nov-2016 11:13:49 America/Chicago] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/buttedig/public_html/joel/php/events.php on line 8
+[15-Nov-2016 11:21:25 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:25 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:25 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:25 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:25 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:28 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:28 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:28 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:28 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:21:28 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:22:39 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 20
+[15-Nov-2016 11:22:39 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 20
+[15-Nov-2016 11:22:39 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 20
+[15-Nov-2016 11:22:39 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 20
+[15-Nov-2016 11:22:39 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 20
+[15-Nov-2016 11:23:51 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:23:51 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:23:51 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:23:51 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:23:51 America/Chicago] PHP Warning:  date() expects parameter 2 to be long, string given in /home/buttedig/public_html/joel/php/events.php on line 21
+[15-Nov-2016 11:50:58 America/Chicago] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/buttedig/public_html/joel/php/events.php on line 20
+[15-Nov-2016 11:56:17 America/Chicago] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/buttedig/public_html/joel/php/events.php on line 19
+[28-Nov-2016 18:13:52 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 12
+[28-Nov-2016 18:14:14 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 12
+[28-Nov-2016 18:14:32 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 12
+[28-Nov-2016 18:18:15 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 13
+[28-Nov-2016 18:19:29 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 14
+[28-Nov-2016 18:19:53 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 14
+[28-Nov-2016 18:19:54 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 14
+[28-Nov-2016 18:20:14 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 14
+[28-Nov-2016 18:21:54 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 15
+[28-Nov-2016 18:22:34 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 15
+[28-Nov-2016 18:23:07 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 15
+[28-Nov-2016 18:23:08 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 15
+[28-Nov-2016 18:23:26 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 15
+[28-Nov-2016 18:23:34 America/Chicago] PHP Fatal error:  Call to a member function format() on a non-object in /home/buttedig/public_html/joel/php/createaccount.php on line 16
+[29-Nov-2016 09:51:00 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[29-Nov-2016 09:51:03 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[29-Nov-2016 09:52:10 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[29-Nov-2016 09:52:11 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[29-Nov-2016 09:52:12 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[29-Nov-2016 09:52:12 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[29-Nov-2016 09:53:10 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/buttedig/public_html/joel/php/signin.php on line 20
+[29-Nov-2016 09:53:10 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/buttedig/public_html/joel/php/signin.php on line 41
+[29-Nov-2016 09:53:10 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/buttedig/public_html/joel/php/signin.php on line 20
+[29-Nov-2016 09:53:11 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, boolean given in /home/buttedig/public_html/joel/php/signin.php on line 41
+[29-Nov-2016 09:53:51 America/Chicago] PHP Warning:  mysql_fetch_row() expects parameter 1 to be resource, object given in /home/buttedig/public_html/joel/php/signin.php on line 40
+[03-Dec-2016 19:19:38 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/buttedig/public_html/joel/php/add_event.php on line 12
+[03-Dec-2016 19:19:50 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/buttedig/public_html/joel/php/add_event.php on line 12
+[03-Dec-2016 19:21:03 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/buttedig/public_html/joel/php/add_event.php on line 12
+[03-Dec-2016 19:21:44 America/Chicago] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/buttedig/public_html/joel/php/add_event.php on line 12
+[05-Dec-2016 14:52:59 America/Chicago] PHP Parse error:  syntax error, unexpected ';' in /home/buttedig/public_html/joel/php/signin.php on line 41
+[05-Dec-2016 22:12:32 America/Chicago] PHP Parse error:  syntax error, unexpected 'etime' (T_STRING), expecting ']' in /home/buttedig/public_html/joel/php/add_event.php on line 9
+[05-Dec-2016 23:01:40 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/buttedig/public_html/joel/php/events.php on line 16
+[05-Dec-2016 23:02:05 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/buttedig/public_html/joel/php/events.php on line 16
+[05-Dec-2016 23:02:09 America/Chicago] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/buttedig/public_html/joel/php/events.php on line 16
+[05-Dec-2016 23:12:53 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'invalid data source name' in /home/buttedig/public_html/joel/php/add_event.php:4
+Stack trace:
+#0 /home/buttedig/public_html/joel/php/add_event.php(4): PDO->__construct('students.cs.umt...', 'jh223415', 'he0ohNgu4Xoojee...')
+#1 {main}
+  thrown in /home/buttedig/public_html/joel/php/add_event.php on line 4
+[05-Dec-2016 23:17:09 America/Chicago] PHP Parse error:  syntax error, unexpected '=' in /home/buttedig/public_html/joel/php/add_event.php on line 4
+[05-Dec-2016 23:18:24 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'jh223415'@'%' to database 'TEST1'' in /home/buttedig/public_html/joel/php/add_event.php:4
+Stack trace:
+#0 /home/buttedig/public_html/joel/php/add_event.php(4): PDO->__construct('mysql:host=stud...', 'jh223415', 'he0ohNgu4Xoojee...')
+#1 {main}
+  thrown in /home/buttedig/public_html/joel/php/add_event.php on line 4
+[05-Dec-2016 23:19:10 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'jh223415'@'%' to database 'TEST1'' in /home/buttedig/public_html/joel/php/add_event.php:4
+Stack trace:
+#0 /home/buttedig/public_html/joel/php/add_event.php(4): PDO->__construct('mysql:host=stud...', 'jh223415', 'he0ohNgu4Xoojee...')
+#1 {main}
+  thrown in /home/buttedig/public_html/joel/php/add_event.php on line 4
+[05-Dec-2016 23:20:06 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY000] [1044] Access denied for user 'jh223415'@'%' to database 'TEST1'' in /home/buttedig/public_html/joel/php/add_event.php:4
+Stack trace:
+#0 /home/buttedig/public_html/joel/php/add_event.php(4): PDO->__construct('mysql:host=stud...', 'jh223415', 'he0ohNgu4Xoojee...')
+#1 {main}
+  thrown in /home/buttedig/public_html/joel/php/add_event.php on line 4
+[05-Dec-2016 23:21:05 America/Chicago] PHP Warning:  mysql_select_db(): Access denied for user 'buttedig'@'localhost' (using password: NO) in /home/buttedig/public_html/joel/php/add_event.php on line 5
+[05-Dec-2016 23:21:05 America/Chicago] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/buttedig/public_html/joel/php/add_event.php on line 5
+[05-Dec-2016 23:29:50 America/Chicago] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Test_Id', 'User_Id`, 'Start_Date_Time`, `End_Date_Time`) VALUES('T0025','dm9224' at line 1' in /home/buttedig/public_html/joel/php/add_event.php:12
+Stack trace:
+#0 /home/buttedig/public_html/joel/php/add_event.php(12): PDO->exec('INSERT INTO TES...')
+#1 {main}
+  thrown in /home/buttedig/public_html/joel/php/add_event.php on line 12
+[05-Dec-2016 23:38:45 America/Chicago] PHP Parse error:  syntax error, unexpected '$start' (T_VARIABLE) in /home/buttedig/public_html/joel/php/add_event.php on line 13
